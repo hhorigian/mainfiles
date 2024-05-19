@@ -1,0 +1,15 @@
+{
+  "author": "Vartan Horigian",
+  "packages": [
+    {
+      "id": "207bab30-c169-4356-90b3-1bba35dac913",
+      "name": "MolSmart GW3-RF",
+      "category": "Control",
+      "location": "https://raw.githubusercontent.com/hhorigian/hubitat_MolSmart_GW3_RF/main/packageManifest.json",
+      "description": "MolSmart GW3 RF",
+      "tags": [
+        "IR & RF"
+      ]
+    }
+  ]
+}
