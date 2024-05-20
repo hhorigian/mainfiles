@@ -1,5 +1,5 @@
 {
-  "author": "Vartan Horigian",
+  "author": "TRATO",
   "packages": [
     {
       "id": "207bab30-c169-4356-90b3-1bba35dac913",
@@ -27,6 +27,16 @@
       "category":"Control",
       "location":"https://raw.githubusercontent.com/hhorigian/hubitat_MolSmart_Dimmer/main/packageManifest.json",
       "description":"MolSmart Relay",
+      "tags":[
+        "Lights & Switches"
+       ]
+    },
+    {
+      "id":"9a8f54fa-7faf-48d3-a6fb-ba65cf718b3b",
+      "name":"SoundSmart - Player",
+      "category":"Control",
+      "location":"https://raw.githubusercontent.com/hhorigian/hubitat_SoundSmart/main/packageManifest.json",
+      "description":"SoundSmart",
       "tags":[
         "Lights & Switches"
        ]
