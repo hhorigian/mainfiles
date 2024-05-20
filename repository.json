@@ -20,6 +20,16 @@
       "tags":[
         "Lights & Switches"
        ]
+    },
+    {
+      "id":"d43f59e9-a596-4453-a729-c2cd286c0873",
+      "name":"MolSmart - Dimmer 6CH (TCP)",
+      "category":"Control",
+      "location":"https://raw.githubusercontent.com/hhorigian/hubitat_MolSmart_Dimmer/main/packageManifest.json",
+      "description":"MolSmart Relay",
+      "tags":[
+        "Lights & Switches"
+       ]
     }
   ]
 }
