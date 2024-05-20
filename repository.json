@@ -8,6 +8,8 @@
       "location": "https://raw.githubusercontent.com/hhorigian/hubitat_MolSmart_GW3_RF/main/packageManifest.json",
       "description": "MolSmart - Drivers for the GW3 IP/RF Gateway",
       "tags": [
+        "Doors & Windows",
+        "Garage Doors",
         "IR & RF"
       ]
     },
