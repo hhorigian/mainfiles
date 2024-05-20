@@ -43,7 +43,7 @@
     },
     {
       "id":"ee1e1a6b-14cc-4eef-b6e7-fe2efce7677e",
-      "name":"MolSmart - GW3 - IR(SendIR) - AC",
+      "name":"MolSmart - GW3 - IR(HEX) - AC",
       "category":"Control",
       "location":"https://raw.githubusercontent.com/hhorigian/hubitat_MolSmart_GW3_IR/main/AC/HEX/packageManifest.json",
       "description":"MolSmart - GW3 - IR - Drivers for HEX Protocol for IR / AC Devices",
