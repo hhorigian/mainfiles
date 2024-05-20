@@ -73,6 +73,17 @@
         "Climate Control",
         "IR & RF"
        ]
+    },
+    {
+      "id":"628029f7-d11a-40fe-a56c-f6247ae9ecf4",
+      "name":"MolSmart GW3 - IR(Learning) - AC",
+      "category":"Control",
+      "location":"https://raw.githubusercontent.com/hhorigian/hubitat_MolSmart_GW3_IR/main/AC/Learning/packageManifest.json",
+      "description":"MolSmart - GW3 - IR - Drivers for Learning (Copy) Protocol for IR / AC Devices",
+      "tags":[
+        "Climate Control",
+        "IR & RF"
+       ]
     }
   ]
 }
