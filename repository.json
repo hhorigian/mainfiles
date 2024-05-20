@@ -6,7 +6,7 @@
       "name": "MolSmart - GW3 - RF",
       "category": "Control",
       "location": "https://raw.githubusercontent.com/hhorigian/hubitat_MolSmart_GW3_RF/main/packageManifest.json",
-      "description": "MolSmart GW3 RF",
+      "description": "MolSmart - Drivers for the GW3 IP/RF Gateway",
       "tags": [
         "IR & RF"
       ]
@@ -16,7 +16,7 @@
       "name":"MolSmart - Relay 4/8/16/32CH (TCP)",
       "category":"Control",
       "location":"https://raw.githubusercontent.com/hhorigian/hubitat_MolSmart_Relays/main/TCP/packageManifest.json",
-      "description":"MolSmart Relay",
+      "description":"MolSmart - Drivers for the 4/8/16/32 Relay Modules",
       "tags":[
         "Lights & Switches"
        ]
@@ -26,17 +26,17 @@
       "name":"MolSmart - Dimmer 6CH (TCP)",
       "category":"Control",
       "location":"https://raw.githubusercontent.com/hhorigian/hubitat_MolSmart_Dimmer/main/packageManifest.json",
-      "description":"MolSmart Relay",
+      "description":"MolSmart - Drivers for the 6CH Dimmer Module",
       "tags":[
         "Lights & Switches"
        ]
     },
     {
       "id":"9a8f54fa-7faf-48d3-a6fb-ba65cf718b3b",
-      "name":"SoundSmart - Player",
+      "name":"SoundSmart",
       "category":"Control",
       "location":"https://raw.githubusercontent.com/hhorigian/hubitat_SoundSmart/main/packageManifest.json",
-      "description":"SoundSmart",
+      "description":"SoundSmart - Drivers for the Multi-room System",
       "tags":[
         "Speakers"
        ]
