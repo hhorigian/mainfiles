@@ -86,6 +86,16 @@
         "Climate Control",
         "IR & RF"
        ]
+    },
+    {
+      "id":"e89badd6-2f68-4fd3-b5af-44b6e72d56b3",
+      "name":"Controlart - Ethernet Relay Module",
+      "category":"Control",
+      "location":"https://raw.githubusercontent.com/hhorigian/Controlart_Relays/main/packageManifest.json",
+      "description":"Controlart - Ethernet Relay Module Drivers (10 outputs, 12 inputs)",
+      "tags":[
+        "Lights & Switches"
+       ]
     }
   ]
 }
