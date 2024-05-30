@@ -96,6 +96,17 @@
       "tags":[
         "Lights & Switches"
        ]
+    },
+    {
+      "id":"58914c03-5189-4b1a-aaac-318efe54a298",
+      "name":"MolSmart GW3-IR(HEX) - TV e SOM",
+      "category":"Control",
+      "location":"https://raw.githubusercontent.com/hhorigian/hubitat_MolSmart_GW3_IR/main/TV/HEX/packageManifest.json",
+      "description":"MolSmart - GW3 - IR - Drivers for HEX Protocol for IR / TV, Sound, and Other Receivers IR",
+      "tags":[
+        "IR & RF",
+        "Speakers"
+       ]
     }
   ]
 }
