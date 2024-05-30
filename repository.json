@@ -118,6 +118,18 @@
         "IR & RF",
         "Speakers"
        ]
+    },
+    {
+      "id":"dab2249b-8e1e-49c7-8cff-097de1cc13c0",
+      "name":"MolSmart GW3 - IR Universal(Learning)",
+      "category":"Control",
+      "location":"https://raw.githubusercontent.com/hhorigian/hubitat_MolSmart_GW3_IR/main/Universal/packageManifest.json",
+      "description":"MolSmart - GW3 - IR - Drivers for Universal Learning using idoor APP",
+      "tags":[
+        "Garage Doors",
+        "IR & RF",
+        "Speakers"
+       ]
     }
   ]
 }
