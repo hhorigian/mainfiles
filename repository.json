@@ -56,7 +56,7 @@
     },
     {
       "id":"fec60108-03b3-4b90-8203-1bec0e91632c",
-      "name":"MolSmart GW3 - IR(SendIR) - AC",
+      "name":"MolSmart - GW3 - IR(SendIR) - AC",
       "category":"Control",
       "location":"https://raw.githubusercontent.com/hhorigian/hubitat_MolSmart_GW3_IR/main/AC/SendIR/packageManifest.json",
       "description":"MolSmart - GW3 - IR - Drivers for SendIR Protocol for IR / AC Devices",
@@ -67,7 +67,7 @@
     },
     {
       "id":"15bb12f4-af8e-4126-9f26-643726196285",
-      "name":"MolSmart GW3 - IR(iDoor) - AC",
+      "name":"MolSmart - GW3 - IR(iDoor) - AC",
       "category":"Control",
       "location":"https://raw.githubusercontent.com/hhorigian/hubitat_MolSmart_GW3_IR/main/AC/Idoor/packageManifest.json",
       "description":"MolSmart - GW3 - IR - Drivers for iDoor Protocol for IR / AC Devices",
@@ -78,7 +78,7 @@
     },
     {
       "id":"628029f7-d11a-40fe-a56c-f6247ae9ecf4",
-      "name":"MolSmart GW3 - IR(Learning) - AC",
+      "name":"MolSmart - GW3 - IR(Learning) - AC",
       "category":"Control",
       "location":"https://raw.githubusercontent.com/hhorigian/hubitat_MolSmart_GW3_IR/main/AC/Learning/packageManifest.json",
       "description":"MolSmart - GW3 - IR - Drivers for Learning (Copy) Protocol for IR / AC Devices",
@@ -99,7 +99,7 @@
     },
     {
       "id":"58914c03-5189-4b1a-aaac-318efe54a298",
-      "name":"MolSmart GW3-IR(HEX) - TV e SOM",
+      "name":"MolSmart - GW3-IR(HEX) - TV e SOM",
       "category":"Control",
       "location":"https://raw.githubusercontent.com/hhorigian/hubitat_MolSmart_GW3_IR/main/TV/HEX/packageManifest.json",
       "description":"MolSmart - GW3 - IR - Drivers for HEX Protocol for IR / TV, Sound, and Other Receivers IR",
