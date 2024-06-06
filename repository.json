@@ -35,10 +35,10 @@
     },
     {
       "id":"9a8f54fa-7faf-48d3-a6fb-ba65cf718b3b",
-      "name":"SoundSmart",
+      "name":"SoundSmart Player (1 de 2)",
       "category":"Control",
       "location":"https://raw.githubusercontent.com/hhorigian/hubitat_SoundSmart/main/packageManifest.json",
-      "description":"SoundSmart - Drivers for the Multi-room System",
+      "description":"SoundSmart - Drivers for the SoundSmart Player component Only.",
       "tags":[
         "Speakers"
        ]
