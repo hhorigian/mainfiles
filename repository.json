@@ -132,6 +132,16 @@
         "IR & RF",
         "Speakers"
        ]
+    },
+    {
+      "id":"a14844a1-3bde-4031-b438-bf891db472bc",
+      "name":"SoundSmart - Group MultiRoom (2 de 2)",
+      "category":"Control",
+      "location":"https://raw.githubusercontent.com/hhorigian/hubitat_SoundSmart/main/MultiRoomManager/packageManifest.json",
+      "description":"SoundSmart - Drivers for the SoundSmart MultiRoom setup. (SoundSmart Player drivers should be already installed)",
+      "tags":[
+        "Speakers"
+       ]
     }
   ]
 }
