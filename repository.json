@@ -138,7 +138,17 @@
       "name":"SoundSmart - Group MultiRoom (2 de 2)",
       "category":"Control",
       "location":"https://raw.githubusercontent.com/hhorigian/hubitat_SoundSmart/main/MultiRoomManager/packageManifest.json",
-      "description":"SoundSmart - Drivers for the SoundSmart MultiRoom setup. (SoundSmart Player drivers should be already installed)",
+      "description":"SoundSmart - Drivers for the SoundSmart MultiRoom setup. (SoundSmart Player (1 de 2) drivers should be already installed)",
+      "tags":[
+        "Speakers"
+       ]
+    },
+    {
+      "id":"1e9c5ef7-700e-460b-844c-f713123279c7",
+      "name":"MolSmart GW3-IR(iDoor) - TV e SOM",
+      "category":"Control",
+      "location":"https://raw.githubusercontent.com/hhorigian/hubitat_MolSmart_GW3_IR/main/TV/SendIR/packageManifest.json",
+      "description":"MolSmart - GW3 - IR - Drivers for iDoor for IR / TV, Sound, and Other Receivers IR"",
       "tags":[
         "Speakers"
        ]
