@@ -123,7 +123,7 @@
     },
     {
       "id":"95ab66c6-6cc8-4dc0-954d-c3dd53ed1022",
-      "name":"MolSmart GW3-IR(SendIR) - TV e SOM",
+      "name":"MolSmart GW3 - IR(SendIR) - TV e SOM",
       "category":"Control",
       "location":"https://raw.githubusercontent.com/hhorigian/hubitat_MolSmart_GW3_IR/main/TV/SendIR/packageManifest.json",
       "description":"MolSmart - GW3 - IR - Drivers for SendIR Protocol for IR / TV, Sound, and Other Receivers IR",
@@ -145,7 +145,7 @@
     },
     {
       "id":"74e253d8-339d-4c86-b95e-6a3c969b8eeb",
-      "name":"MolSmart GW3-IR(iDoor) - TV e SOM",
+      "name":"MolSmart GW3 -IR(iDoor) - TV e SOM",
       "category":"Control",
       "location":"https://raw.githubusercontent.com/hhorigian/hubitat_MolSmart_GW3_IR/main/TV/iDoor/packageManifest.json",
       "description":"MolSmart - GW3 - IR - Drivers for iDoor for IR / TV, Sound, and Other Receivers IR",
