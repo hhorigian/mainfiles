@@ -153,6 +153,16 @@
         "IR & RF",
         "Speakers"
        ]
+    },
+    {
+      "id":"1501a293-6c99-4be4-a79e-b3a380d4848f",
+      "name":"MolSmart - GW3 - TV (irweb)",
+      "category":"Control",
+      "location":"https://github.com/hhorigian/hubitat_MolSmart_GW3_Remotes/blob/main/TV/packageManifest.json",
+      "description":"MolSmart - GW3 - IR - Drivers for IR Remote Controls Created at website ir.molsmart.com.br. ",
+      "tags":[
+        "IR & RF"
+       ]
     }
   ]
 }
