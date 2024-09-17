@@ -163,6 +163,16 @@
       "tags":[
         "IR & RF"
        ]
+    },
+    {
+      "id":"d9ee5d6c-e08d-4760-996f-c1288fcc8549",
+      "name":"MolSmart - GW3 - AC (irweb)",
+      "category":"Control",
+      "location":"https://github.com/hhorigian/hubitat_MolSmart_GW3_Remotes/blob/main/AC/packageManifest.json",
+      "description":"MolSmart - GW3 - IR - Drivers for AC IR Remote Controls Created at website ir.molsmart.com.br. ",
+      "tags":[
+        "IR & RF"
+       ]
     }
   ]
 }
