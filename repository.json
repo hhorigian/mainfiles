@@ -173,6 +173,19 @@
       "tags":[
         "IR & RF"
        ]
+    },
+    {
+      "id":"5d70a1ee-59e5-492f-9203-c8cd00752558",
+      "name":"Control ID - Controller",
+      "category":"Control",
+      "location":"https://raw.githubusercontent.com/hhorigian/hubitat_ControlID/refs/heads/master/packageManifest.json",
+      "description":"ControlID - Driver to Control the SecBox of ControlID, and functions to operate remotely the ControlID device",
+      "tags":[
+        "Alarm Systems",
+        "Doors & Windows",
+        "Garage Doors",
+        "Locks"
+       ]
     }
   ]
 }
