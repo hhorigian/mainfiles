@@ -186,6 +186,19 @@
         "Garage Doors",
         "Locks"
        ]
+    },
+    {
+      "id":"d2cecf77-f5ec-4387-ae6f-da453a4bc2c2",
+      "name":"Hikvision - Controller",
+      "category":"Control",
+      "location":"https://raw.githubusercontent.com/hhorigian/hubitat_Hikvision/refs/heads/master/packageManifest.json",
+      "description":"Hikvision - Driver to Control Door of HikVision, and functions to operate remotely (open/close/restart)",
+      "tags":[
+        "Alarm Systems",
+        "Doors & Windows",
+        "Garage Doors",
+        "Locks"
+       ]
     }
   ]
 }
