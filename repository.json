@@ -6,7 +6,7 @@
       "name": "MolSmart - GW3 - RF",
       "category": "Control",
       "location": "https://raw.githubusercontent.com/hhorigian/hubitat_MolSmart_GW3_RF/main/packageManifest.json",
-      "description": "MolSmart - Drivers for the GW3 IP/RF Gateway",
+      "description": "MolSmart - Drivers for the GW3 IP/RF Gateway. Driver for RF control.",
       "tags": [
         "Doors & Windows",
         "Garage Doors",
@@ -35,10 +35,10 @@
     },
     {
       "id":"9a8f54fa-7faf-48d3-a6fb-ba65cf718b3b",
-      "name":"SoundSmart Player (1 de 2)",
+      "name":"SoundSmart - Player (1 de 2)",
       "category":"Control",
       "location":"https://raw.githubusercontent.com/hhorigian/hubitat_SoundSmart/main/packageManifest.json",
-      "description":"SoundSmart - Drivers for the SoundSmart Player component Only.",
+      "description":"SoundSmart - Drivers for the SoundSmart Player component Only. Must have",
       "tags":[
         "Speakers"
        ]
@@ -123,7 +123,7 @@
     },
     {
       "id":"95ab66c6-6cc8-4dc0-954d-c3dd53ed1022",
-      "name":"MolSmart GW3 - IR(SendIR) - TV e SOM",
+      "name":"MolSmart - GW3 - IR(SendIR) - TV e SOM",
       "category":"Control",
       "location":"https://raw.githubusercontent.com/hhorigian/hubitat_MolSmart_GW3_IR/main/TV/SendIR/packageManifest.json",
       "description":"MolSmart - GW3 - IR - Drivers for SendIR Protocol for IR / TV, Sound, and Other Receivers IR",
@@ -135,17 +135,17 @@
     },
     {
       "id":"a14844a1-3bde-4031-b438-bf891db472bc",
-      "name":"SoundSmart - Group MultiRoom (2 de 2)",
+      "name":"SoundSmart - Player Group MultiRoom (2 de 2)",
       "category":"Control",
       "location":"https://raw.githubusercontent.com/hhorigian/hubitat_SoundSmart/main/MultiRoomManager/packageManifest.json",
-      "description":"SoundSmart - Drivers for the SoundSmart MultiRoom setup. (SoundSmart Player (1 de 2) drivers should be already installed)",
+      "description":"SoundSmart - Drivers for the SoundSmart MultiRoom setup. (SoundSmart - Player (1 de 2) drivers should be already installed)",
       "tags":[
         "Speakers"
        ]
     },
     {
       "id":"74e253d8-339d-4c86-b95e-6a3c969b8eeb",
-      "name":"MolSmart GW3 -IR(iDoor) - TV e SOM",
+      "name":"MolSmart - GW3 - IR(iDoor) - TV e SOM",
       "category":"Control",
       "location":"https://raw.githubusercontent.com/hhorigian/hubitat_MolSmart_GW3_IR/main/TV/iDoor/packageManifest.json",
       "description":"MolSmart - GW3 - IR - Drivers for iDoor for IR / TV, Sound, and Other Receivers IR",
