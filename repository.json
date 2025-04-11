@@ -232,6 +232,17 @@
       "tags":[
         "Speakers"
        ]
+    },
+        {
+      "id":"13eb514e-940a-4cc8-8ec2-77f078131a2f",
+      "name":"Alamo V3 Gateway - HTTP",
+      "category":"Control",
+      "location":"https://raw.githubusercontent.com/hhorigian/hubitat_gateway_alamo/refs/heads/main/packageManifest.json",
+      "description":"Gateway Alamo for Heated Floors",
+      "tags":[
+        "Appliances",
+        "Temperature & Humidity"
+       ]
     }
   ]
 }
