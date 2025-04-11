@@ -199,6 +199,16 @@
         "Garage Doors",
         "Locks"
        ]
+    },
+    {
+      "id":"10766985-9794-4688-b9a5-52b4d69870af",
+      "name":"SoundSmart - 4 Zone Matrix",
+      "category":"Convenience",
+      "location":"https://raw.githubusercontent.com/hhorigian/hubitat_SoundSmart_4Zonas/refs/heads/main/packageManifest.json",
+      "description":"SoundSmart 4 Zonas Audio Matrix ",
+      "tags":[
+        "Speakers"
+       ]
     }
   ]
 }
