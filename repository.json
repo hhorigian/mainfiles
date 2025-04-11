@@ -210,15 +210,17 @@
         "Speakers"
        ]
     },
-        {
-      "id":"39f0bb9f-bea0-4d51-bdd2-8b5286f2b78b",
+    {
+      "id":"cd919dff-7f79-498b-98ec-ea6914e02d89",
       "name":"MolSmart - 12+4 Input Board",
       "category":"null",
       "location":"https://raw.githubusercontent.com/hhorigian/hubitat_MolSmart_InputBoard/refs/heads/main/packageManifest.json",
       "description":"MolSmart - Input Board 12+4 ",
       "tags":[
+        "Alarm Systems",
         "Lights & Switches",
-         "Alarm Systems"
+        "Monitoring",
+        "Temperature & Humidity"
        ]
     }
   ]
