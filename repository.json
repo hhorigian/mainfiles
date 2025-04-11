@@ -213,7 +213,7 @@
     {
       "id":"cd919dff-7f79-498b-98ec-ea6914e02d89",
       "name":"MolSmart - 12+4 Input Board",
-      "category":"null",
+      "category":"Control",
       "location":"https://raw.githubusercontent.com/hhorigian/hubitat_MolSmart_InputBoard/refs/heads/main/packageManifest.json",
       "description":"MolSmart - Input Board 12+4 ",
       "tags":[
@@ -221,6 +221,16 @@
         "Lights & Switches",
         "Monitoring",
         "Temperature & Humidity"
+       ]
+    },
+    {
+      "id":"ac6ef493-a55e-44d3-a4e2-e3c2702d813c",
+      "name":"Loud Audio - 4 AP 100 Amplifier (HTTP)",
+      "category":"Control",
+      "location":"https://raw.githubusercontent.com/hhorigian/hubitat_loud_4ap100/refs/heads/main/packageManifest.json",
+      "description":"Loud Audio - 4 AP 100 Amplifier",
+      "tags":[
+        "Speakers"
        ]
     }
   ]
