@@ -254,6 +254,18 @@
         "Appliances",
         "Temperature & Humidity"
        ]
+    },
+    {
+      "id":"54e8eb3b-d49e-4dd9-9b9e-0fb352a69a6a",
+      "name":"Controlart - 7Port TV (irweb)",
+      "category":"Control",
+      "location":"https://raw.githubusercontent.com/hhorigian/hubitat_Controlart_7Port/refs/heads/main/TV%20e%20Som/IRWeb%20Version/packageManifest.json",
+      "description":"Controlart - 7Port - TV via IRWeb usando o banco de dados IR. ",
+      "tags":[
+        "Appliances",
+        "IR & RF",
+        "Temperature & Humidity"
+       ]
     }
   ]
 }
