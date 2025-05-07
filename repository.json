@@ -243,6 +243,17 @@
         "Appliances",
         "Temperature & Humidity"
        ]
+    },
+    {
+      "id":"5cf48c43-5376-495c-ae92-ba62e5f54374",
+      "name":"Controlart - 7Port AC (irweb)",
+      "category":"Control",
+      "location":"https://raw.githubusercontent.com/hhorigian/hubitat_Controlart_7Port/refs/heads/main/AC/IRWeb%20Version/packageManifest.json",
+      "description":"Controlart - 7Port - AC via IRWeb usando o banco de dados IR. ",
+      "tags":[
+        "Appliances",
+        "Temperature & Humidity"
+       ]
     }
   ]
 }
