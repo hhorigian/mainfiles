@@ -6,7 +6,7 @@
       "name": "MolSmart - GW3 - RF",
       "category": "Control",
       "location": "https://raw.githubusercontent.com/hhorigian/hubitat_MolSmart_GW3_RF/main/packageManifest.json",
-      "description": "MolSmart - Drivers for the GW3 IP/RF Gateway. Driver for RF control.",
+      "description": "MolSmart - Drivers for the GW3 IP/RF Gateway. Driver for RF control of motor curtains.",
       "tags": [
         "Doors & Windows",
         "Garage Doors",
@@ -18,7 +18,7 @@
       "name":"MolSmart - Relay 4/8/16/32CH (TCP)",
       "category":"Control",
       "location":"https://raw.githubusercontent.com/hhorigian/hubitat_MolSmart_Relays/main/TCP/packageManifest.json",
-      "description":"MolSmart - Drivers for the 4/8/16/32 Relay Modules",
+      "description":"MolSmart - Drivers for the 2/4/8/16/32 Relay Modules",
       "tags":[
         "Lights & Switches"
        ]
@@ -44,33 +44,11 @@
        ]
     },
     {
-      "id":"ee1e1a6b-14cc-4eef-b6e7-fe2efce7677e",
-      "name":"MolSmart - GW3 - IR(HEX) - AC",
-      "category":"Control",
-      "location":"https://raw.githubusercontent.com/hhorigian/hubitat_MolSmart_GW3_IR/main/AC/HEX/packageManifest.json",
-      "description":"MolSmart - GW3 - IR - Drivers for HEX Protocol for IR / AC Devices",
-      "tags":[
-        "Climate Control",
-        "IR & RF"
-       ]
-    },
-    {
-      "id":"fec60108-03b3-4b90-8203-1bec0e91632c",
-      "name":"MolSmart - GW3 - IR(SendIR) - AC",
-      "category":"Control",
-      "location":"https://raw.githubusercontent.com/hhorigian/hubitat_MolSmart_GW3_IR/main/AC/SendIR/packageManifest.json",
-      "description":"MolSmart - GW3 - IR - Drivers for SendIR Protocol for IR / AC Devices",
-      "tags":[
-        "Climate Control",
-        "IR & RF"
-       ]
-    },
-    {
       "id":"15bb12f4-af8e-4126-9f26-643726196285",
-      "name":"MolSmart - GW3 - IR(iDoor) - AC",
+      "name":"MolSmart - GW3 - IR AC (idoor device)",
       "category":"Control",
       "location":"https://raw.githubusercontent.com/hhorigian/hubitat_MolSmart_GW3_IR/main/AC/Idoor/packageManifest.json",
-      "description":"MolSmart - GW3 - IR - Drivers for iDoor Protocol for IR / AC Devices",
+      "description":"MolSmart - Drivers for the GW3 IP/RF Gateway. Driver for AC Devices created and learned in iDoor APP",
       "tags":[
         "Climate Control",
         "IR & RF"
@@ -78,10 +56,10 @@
     },
     {
       "id":"628029f7-d11a-40fe-a56c-f6247ae9ecf4",
-      "name":"MolSmart - GW3 - IR(Learning) - AC",
+      "name":"MolSmart - GW3 - IR AC (idoor Universal Learning)",
       "category":"Control",
       "location":"https://raw.githubusercontent.com/hhorigian/hubitat_MolSmart_GW3_IR/main/AC/Learning/packageManifest.json",
-      "description":"MolSmart - GW3 - IR - Drivers for Learning (Copy) Protocol for IR / AC Devices",
+      "description":"MolSmart - Drivers for the GW3 IP/RF Gateway. Driver for Universal Learning AC and learned in iDoor APP",
       "tags":[
         "Climate Control",
         "IR & RF"
@@ -98,38 +76,15 @@
        ]
     },
     {
-      "id":"58914c03-5189-4b1a-aaac-318efe54a298",
-      "name":"MolSmart - GW3 - IR(HEX) - TV e SOM",
-      "category":"Control",
-      "location":"https://raw.githubusercontent.com/hhorigian/hubitat_MolSmart_GW3_IR/main/TV/HEX/packageManifest.json",
-      "description":"MolSmart - GW3 - IR - Drivers for HEX Protocol for IR / TV, Sound, and Other Receivers IR",
-      "tags":[
-        "IR & RF",
-        "Speakers"
-       ]
-    },
-    {
       "id":"dab2249b-8e1e-49c7-8cff-097de1cc13c0",
-      "name":"MolSmart - GW3 - IR Universal(Learning)",
+      "name":"MolSmart - GW3 - IR Universal (iDoor Universal Learning)",
       "category":"Control",
       "location":"https://raw.githubusercontent.com/hhorigian/hubitat_MolSmart_GW3_IR/main/Universal/packageManifest.json",
-      "description":"MolSmart - GW3 - IR - Drivers for Universal Learning using idoor APP",
+      "description":"MolSmart - Drivers for the GW3 IP/RF Gateway. Driver for Universal Remotes Learned created and learned in iDoor APP",
       "tags":[
         "Garage Doors",
         "IR & RF",
         "Climate Control",
-        "Speakers"
-       ]
-    },
-    {
-      "id":"95ab66c6-6cc8-4dc0-954d-c3dd53ed1022",
-      "name":"MolSmart - GW3 - IR(SendIR) - TV e SOM",
-      "category":"Control",
-      "location":"https://raw.githubusercontent.com/hhorigian/hubitat_MolSmart_GW3_IR/main/TV/SendIR/packageManifest.json",
-      "description":"MolSmart - GW3 - IR - Drivers for SendIR Protocol for IR / TV, Sound, and Other Receivers IR",
-      "tags":[
-        "Garage Doors",
-        "IR & RF",
         "Speakers"
        ]
     },
@@ -145,10 +100,10 @@
     },
     {
       "id":"74e253d8-339d-4c86-b95e-6a3c969b8eeb",
-      "name":"MolSmart - GW3 - IR(iDoor) - TV e SOM",
+      "name":"MolSmart - GW3 - TV e SOM (iDoor device)",
       "category":"Control",
       "location":"https://raw.githubusercontent.com/hhorigian/hubitat_MolSmart_GW3_IR/main/TV/iDoor/packageManifest.json",
-      "description":"MolSmart - GW3 - IR - Drivers for iDoor for IR / TV, Sound, and Other Receivers IR",
+      "description":"MolSmart - Drivers for the GW3 IP/RF Gateway.  Driver for TV, Sound created and learned in iDoor APP",
       "tags":[
         "IR & RF",
         "Speakers"
@@ -156,7 +111,7 @@
     },
     {
       "id":"1501a293-6c99-4be4-a79e-b3a380d4848f",
-      "name":"MolSmart - GW3 - TV (irweb)",
+      "name":"MolSmart - GW3 - TV e SOM (irweb)",
       "category":"Control",
       "location":"https://raw.githubusercontent.com/hhorigian/hubitat_MolSmart_GW3_Remotes/main/TV/packageManifest.json",
       "description":"MolSmart - GW3 - IR - Drivers for TV IR Remote Controls Created at website ir.molsmart.com.br. ",
