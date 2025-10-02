@@ -221,6 +221,19 @@
         "IR & RF",
         "Temperature & Humidity"
        ]
+    },
+    {
+      "id":"928a5351-4d94-435f-8291-2f6317259938",
+      "name":"Tholz - SmartPool",
+      "category":"Control",
+      "location":"https://raw.githubusercontent.com/hhorigian/hubitat_tholz/refs/heads/main/packageManifest.json",
+      "description":"Tholz - SmartPool - Driver para controle e status",
+      "tags":[
+        "Appliances",
+        "IR & RF",
+        "Temperature & Humidity"
+       ]
     }
   ]
 }
+
