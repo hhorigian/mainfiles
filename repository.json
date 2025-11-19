@@ -233,7 +233,21 @@
         "IR & RF",
         "Temperature & Humidity"
        ]
+    },
+    {
+      "id":"c4faf41a-1722-479c-945e-5909edaaeacf",
+      "name":"MolSmart GW8-RF",
+      "category":"Control",
+      "location":"https://raw.githubusercontent.com/hhorigian/hubitat_tholz/refs/heads/main/packageManifest.json",
+      "description":"MolSmart - GW8 - Driver para controle de RF",
+      "tags":[
+        "Alarm Systems",
+        "Doors & Windows",
+        "Garage Doors",
+        "Locks"
+       ]
     }
   ]
 }
+
 
