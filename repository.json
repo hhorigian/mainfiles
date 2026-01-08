@@ -246,7 +246,44 @@
         "Garage Doors",
         "Locks"
        ]
+    },
+    {
+      "id":"60372a48-4843-4f74-9989-cd16da17f009",
+      "name":"MolSmart - GW8 - TV e Audio(irweb)",
+      "category":"Control",
+      "location":"https://raw.githubusercontent.com/hhorigian/hubitat_MolSmart_GW8/refs/heads/main/IR/TV-Audio(irweb)/packageManifest.json",
+      "description":"MolSmart - GW8 - IR - Drivers for TV and Audio - IR Remote Controls Created at website ir.molsmart.com.br. ",
+      "tags":[
+        "Appliances",
+        "IR & RF",
+        "Temperature & Humidity"
+       ]
+    },
+    {
+      "id":"fc157f48-5e69-4d83-b450-b00ec3551c7c",
+      "name":"MolSmart - GW8 - AC(irweb)",
+      "category":"Control",
+      "location":"https://raw.githubusercontent.com/hhorigian/hubitat_MolSmart_GW8/refs/heads/main/IR/AC(irweb)/packageManifest.json",
+      "description":"MolSmart - GW8 - IR - Drivers for AC - IR Remote Controls Created at website ir.molsmart.com.br. ",
+      "tags":[
+        "Appliances",
+        "IR & RF",
+        "Temperature & Humidity"
+       ]
+    },
+    {
+      "id":"070fd73c-4487-49e2-bd13-1672b9c4ae19",
+      "name":"MolSmart - GW8 - Learning",
+      "category":"Control",
+      "location":"https://raw.githubusercontent.com/hhorigian/hubitat_MolSmart_GW8/refs/heads/main/IR/Learning/packageManifest.json",
+      "description":"MolSmart - GW8 - IR - IR Remote Controls Created at GW8 Buttons Website",
+      "tags":[
+        "Appliances",
+        "IR & RF",
+        "Temperature & Humidity"
+       ]
     }
+  
   ]
 }
 
