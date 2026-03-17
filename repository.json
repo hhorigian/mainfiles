@@ -282,7 +282,18 @@
         "IR & RF",
         "Temperature & Humidity"
        ]
+    },
+    {
+      "id":"d43f59e9-a596-9453-a729-c2cd286c0879",
+      "name":"MolSmart DIMMER-010",
+      "category":"Control",
+      "location":"https://raw.githubusercontent.com/hhorigian/hubitat_MolSmart_Dimmer_0-10/refs/heads/main/packageManifest.json",
+      "description":"MolSmart - Drivers for the 8CH 0-10V Dimmer Module",
+      "tags":[
+        "Lights & Switches"
+       ]
     }
+    
   
   ]
 }
