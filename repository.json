@@ -292,6 +292,16 @@
       "tags":[
         "Lights & Switches"
        ]
+    },
+        {
+      "id":"d43f59e9-a591-9433-a329-c2cd286c0879",
+      "name":"MolSmart - GW8 - AC (learning)",
+      "category":"Control",
+      "location":"https://raw.githubusercontent.com/hhorigian/hubitat_MolSmart_GW8/refs/heads/main/IR/AC(Learning)/packageManifest.json",
+      "description":"MolSmart - Drivers for using the AC Codes learned in GW8 Website",
+      "tags":[
+        "Lights & Switches"
+       ]
     }
     
   
