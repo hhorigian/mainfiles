@@ -302,9 +302,19 @@
       "tags":[
         "Lights & Switches"
        ]
+    },
+    {
+      "id":"288f6961-3656-4020-884b-7af401aec5a9",
+      "name":"SoundSmart - 2 Zone Matrix (MZ21)",
+      "category":"Convenience",
+      "location":"https://raw.githubusercontent.com/hhorigian/hubitat_SoundSmart_2Zonas/refs/heads/main/packageManifest.json",
+      "description":"SoundSmart MZ21 - 2 Zone Amplified Audio Matrix with Master zone",
+      "tags":[
+        "Speakers"
+       ]
     }
-    
-  
+
+
   ]
 }
 
