@@ -317,7 +317,7 @@
     "id": "c32c9228-fa6f-4392-b5c4-fb2e8ce8adcb",
     "name": "Amazon Fire TV (ADB)",
     "category": "Convenience",
-    "location": "https://raw.githubusercontent.com/hhorigian/hubitat_firetv/main/packageManifest.json",
+    "location": "https://raw.githubusercontent.com/hhorigian/hubitat_firetv/refs/heads/main/packageManifest.json",
     "description": "Hubitat driver to control Amazon Fire TV devices directly over ADB.",
     "tags": ["Appliances"]
   }
